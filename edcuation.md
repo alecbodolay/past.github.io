@@ -4,7 +4,8 @@ title: ""
 
 ## Education
 
-![](/images/UCSB_logo.png){:.eduimg} `August 2019 - July 2022`
+![](/images/UCSB_logo.png)
+<br>`August 2019 - July 2022`
 <br/>[__University of California Santa Barbara__](https://www.ucsb.edu/){:target="_blank" style="color:#343434"}
 <br/>B.S in Behavioral Neuroscience
 
