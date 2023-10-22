@@ -12,12 +12,10 @@ redirect_from:
 Education
 ======
 * University of California Santa Barbara: Bachelor of Science: Biopsychology - GPA: 3.61 (Jan 2021 - Sept 2022)
-  
-** Relevant Coursework: Research Methods, Research Statistics, Computational Neuroscience, Biochemistry, Behavioral Neuroscience, Behavioral Endocrinology, Psychopharmacology
+  * Relevant Coursework: Research Methods, Research Statistics, Computational Neuroscience, Biochemistry, Behavioral Neuroscience, Behavioral Endocrinology, Psychopharmacology
 
 * Santa Monica College: Associate Degree: Biological Science - GPA: 3.64 (Aug 2017 -  Jun 2020)
-  
-** Relevant Coursework: General Chemistry, Organic Chemistry, Cell Biology and Evolution, Genetics and Molecular Biology, and Organismal and Environmental Biology.
+  * Relevant Coursework: General Chemistry, Organic Chemistry, Cell Biology and Evolution, Genetics and Molecular Biology, and Organismal and Environmental Biology.
 
 Work experience
 ======
