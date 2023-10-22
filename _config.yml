@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : Alec Bodolay #"Your Sidebar Name"
+  name             : "Alec Bodolay" #"Your Sidebar Name"
   avatar           : #"profile.png"
   bio              : #"Your biography for the left-hand sidebar"
   location         : "Location"
