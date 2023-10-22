@@ -9,7 +9,7 @@ editor_options:
 `August 2019 - July 2022`
 {: style="text-align: center" }
 &emsp; [**University of California Santa Barbara**](https://www.ucsb.edu/){:target="\_blank" style="color:#343434"} 
-&emsp; <br/>B.S in Behavioral Neuroscience
+<br/> &emsp; B.S in Behavioral Neuroscience
  
  <br>
  
