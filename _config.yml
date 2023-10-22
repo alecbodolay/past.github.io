@@ -82,8 +82,7 @@ analytics:
 author:
   name             : "Alec Bodolay"
   avatar           : "profile.png"
-  #bio              : #"Your biography for the left-hand sidebar"
-  employer         : Massachusetts General Hospital
+  bio              : ""
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : abodolay[at]mgh.harvard[dot]edu
