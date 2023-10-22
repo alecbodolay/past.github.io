@@ -1,8 +1,6 @@
 ---
 title: Education
 editor_options: 
-  markdown: 
-    wrap: 72
 ---
 
 ![](/images/UCSB_logo.png) `August 2019 - July 2022` <br\>[**University
