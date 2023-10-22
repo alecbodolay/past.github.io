@@ -4,7 +4,6 @@ editor_options:
 ---
 
 <br>
-<br>
 
 ![](/images/UCSB_logo.png)
 [**University of California Santa Barbara**](https://www.ucsb.edu/){:target="\_blank" style="color:#343434"}
