@@ -7,7 +7,7 @@ editor_options:
 
 ![](/images/UCSB_seal.jpg){: style="width: 125px; float: left"}
 [**University of California Santa Barbara**](https://www.ucsb.edu/){:target="\_blank style="color:#343434""}
- `August 2019 - July 2022` {: style="float:right"}
+ `August 2019 - July 2022` {: style="text-align: right" }
  <br/>B.S in Behavioral Neuroscience
  <br>
 ![](/images/SMC_seal.png){: style="width: 125px; float: left"}
