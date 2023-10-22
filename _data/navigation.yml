@@ -3,12 +3,11 @@
     url: /
     blank: no
     
-  - title: "Publications"
+  - title: Publications
     url: /publications/
-    blank: no  
     
-  - title: "Education"
+  - title: Education
     url: /edcuation/
     
-  - title: "CV"
+  - title: CV
     url: /cv/
