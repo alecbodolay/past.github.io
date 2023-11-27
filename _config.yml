@@ -52,13 +52,8 @@ author:
   #googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "abodolay@mgh.harvard.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
   codepen          :
-  dribbble         :
-  flickr           :
   facebook         :
-  foursquare       :
   github           : alecbodolay
   linkedin         : alecbodolay
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -101,12 +96,10 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 
 # Conversion
-permalink:   /:categories/:title/
+permalink:   /:title/
 markdown:    kramdown
 highlighter: rouge
-lsi: false
 excerpt_separator: "\n\n"
-incremental: false
 
 
 # Markdown Processing
