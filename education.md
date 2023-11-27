@@ -5,6 +5,8 @@ editor_options:
 
 <br>
 
+## Undergraduate
+
 ![](/images/UCSB_seal.jpg){: style="width: 125px; float: left"}
 `August 2019 - July 2022`
 {: style="text-align: center" }
