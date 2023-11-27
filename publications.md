@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: ""
 ---
 
 Publication 1
