@@ -1,7 +1,6 @@
 ---
-Title: Home
+Title: ""
 ---
-
 
 ## About me
 
