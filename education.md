@@ -3,8 +3,6 @@ title: ""
 editor_options: 
 ---
 
-<br>
-
 ## Undergraduate
 
 ![](/images/UCSB_seal.jpg){: style="width: 125px; float: left"}
