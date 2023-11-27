@@ -12,7 +12,7 @@ name                     : &name "Alec Bodolay"
 description              : &description "personal description"
 url                      : https://alecbodolay.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 #baseurl                  : ""
-home-page                : https://www.mghaddictionmedicine.com/
+home-page                : https://www.mghaddictionmedicine.com
 repository               : "alecbodolay/alecbodolay.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
