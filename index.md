@@ -1,5 +1,5 @@
 ---
-layout: resume
+permalink: /home/
 excerpt: Home
 ---
 
