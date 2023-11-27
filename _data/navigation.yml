@@ -2,6 +2,7 @@
 main:
   - title: Home
     url: /home/
+    blank: no
     
   - title: Publications
     url: /publications/
