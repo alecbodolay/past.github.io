@@ -2,7 +2,6 @@
 title: "A pragmatic clinical effectiveness trial of a novel alternative to punishment for school-based substance use infractions: study protocol for the iDECIDE curriculum"
 collection: publications
 permalink: /publication/2023-08-21-CAM-1
-excerpt: 'This paper is about evaluating the effectiveness of the iDECIDE curriculum as an alternative to punishment for school-based substance use infractions. '
 date: 2023-08-21
 venue: 'Frontiers in Public Health'
 paperurl: 'https://pubmed.ncbi.nlm.nih.gov/37670822/'
